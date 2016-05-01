@@ -1,0 +1,51 @@
+body {
+	background-image: url(EngPhoto1.jpg);
+	background-size: 100% auto;
+	color:black;
+	text-align: center;
+	font-size: 2.5em;
+	font-family: Goudy Old Style;
+}
+
+a:link {
+	color: #02dbbf;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #02dbbf;
+}
+
+a:hover {
+	color: black;
+}
+
+a:active {
+	color: red;
+}
+
+#tagline {
+	text-align: right;
+	vertical-align: top;
+	font-family: Goudy Old Style;
+	font-weight: bold;
+}
+
+.linklist{
+	margin: 0% 10% 10% 20%;
+	font-style: italic;
+	text-align: left;
+}
+
+.text{
+	margin: 0% 10% 0% 12%;
+	font-size: .7em;
+	font-style: italic;
+}
+
+#gForm{
+	text-align: right;
+	vertical-align: top;
+	margin: 0% 42% 0% 10%;
+}
+
